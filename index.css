@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 666px;
+    width: 100%;
+    margin: 0 auto;
+}
+.search{
+    width: 100%;
+    padding-bottom: 1rem;
+}
+input{
+    margin-top: 5rem;
+    padding: 1rem 1rem;
+    width: 100%;
+    font-size: 20px;
+}
+li{
+    list-style: none;
+    width: 100%;
+    color: aqua;
+    margin-bottom: 10px;
+    background-color: black;
+    font-size: 20px;
+    border: 1px solid aqua;
+    text-align: center;
+}
+.list{
+    width: 100%;
+}
