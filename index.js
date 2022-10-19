@@ -1,6 +1,6 @@
 const input = document.getElementById('search1');
 
-console.log(input);
+
 
 input.addEventListener('keyup',search);
 function search(){
